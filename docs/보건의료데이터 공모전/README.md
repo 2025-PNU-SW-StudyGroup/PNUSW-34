@@ -274,18 +274,20 @@ BE5_1 → 주간근력운동일수
 #### 3.4. 디렉토리 구조
 본 프로젝트는 Google Colab 환경에서 수행되었으며, 분석에 활용된 주요 파일은 다음과 같은 형태로 구성되어 있다.
 
-	📁 보건의료데이터 공모전/
-	├── merged_df.csv
-	├── final.csv
-	├── 24시 회상데이터/
-	│   ├── df_all_nofilter.csv
-	│   └── 당류 식품 코드.csv
-	└── notebooks/
-	    ├── 정신건강_전처리.ipynb
-	    ├── 당 식품 선정 및 식품코드명 전처리.ipynb
-	    ├── 공변량_전처리.ipynb
-	    ├── 공변량과 독립변수, 종속변수와의 p-value.ipynb
-	    └── 공변량 고려 안했을 때 그래프.ipynb
+📁 보건의료데이터 공모전/
+├── README.md
+├── merged_df.csv 
+├── final.csv
+├── 24시 회상데이터/
+│   ├── df_all_nofilter.csv
+│   └── 식품 코드 전체0.csv
+└── notebooks/
+    ├── 정신건강_전처리.ipynb
+    ├── 당 식품 선정 및 식품코드명 전처리.ipynb
+    ├── 공변량_전처리.ipynb
+    ├── 공변량과 독립변수, 종속변수와의 p-value.ipynb
+    └── 공변량 고려 안했을 때 그래프.ipynb
+└─ 보건의료데이터공모전_시연영상.mp4
 
 
 ### 4. 설치 및 사용 방법
