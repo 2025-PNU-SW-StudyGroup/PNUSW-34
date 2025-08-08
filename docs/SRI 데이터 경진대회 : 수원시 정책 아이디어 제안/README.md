@@ -233,13 +233,13 @@
 
 <br />
   
-<img width="600" height="590" alt="image" src="https://github.com/user-attachments/assets/f715f4dd-e278-496a-bb6b-03613379a886" />
+<img width="700" height="417" alt="image" src="https://github.com/user-attachments/assets/f715f4dd-e278-496a-bb6b-03613379a886" />
 
 - 만 19세 ~ 35세의 1인 가구 시민들은 수원을 첨단 산업이 발달한 도시로 가장 많이 생각하고 있다.
 
 <br />
   
-<img width="1186" height="590" alt="image" src="https://github.com/user-attachments/assets/04bc3249-43ad-4f03-8bea-0bd059577ba1" />
+<img width="800" height="397" alt="image" src="https://github.com/user-attachments/assets/04bc3249-43ad-4f03-8bea-0bd059577ba1" />
 
 - 교통 => 1. 영통구(24.49%), 2. 장안구 (24.32%), 3. 팔달구(23.53%), 4. 권선구(16.22%)로 권선구를 제외한 세 개의 구에서는 약 24%의 시민이 교통을 우선적으로 추진해야 한다고 응답하였음.
   
@@ -247,7 +247,9 @@
   
 - 도시계획 및 정비 => 1. 팔달구(11.76%), 2. 영통구(8.16%), 3. 장안구(8.11%), 4. 권선구(3.60%)로 팔달구에서 약 11%의 시민이 도시계획 및 정비를 우선적으로 추진해야 한다고 응답하였음.
 
-<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/5be89fee-2fa6-4991-8547-8a3c24fc913c" />
+<br />
+
+<img width="800" height="396" alt="image" src="https://github.com/user-attachments/assets/5be89fee-2fa6-4991-8547-8a3c24fc913c" />
 
 - 청년 인구가 감소하는 추세를 보임
 
