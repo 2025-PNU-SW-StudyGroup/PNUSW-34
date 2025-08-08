@@ -225,13 +225,19 @@
 
 - 1인가구 쪽이 조금 더 만족도가 높은것을 확인할 수 있음
 
+<br />
+
 <img width="550" height="410" alt="image" src="https://github.com/user-attachments/assets/303497d2-b860-4d0e-a6f7-474514d6880d" />
 
 - 생활환경 부문에서 불만족하는 시민이 조금 더 많은 편 이며, 안전 서비스 부문에서 가장 높은 만족도를 보였다.
+
+<br />
   
-<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/f715f4dd-e278-496a-bb6b-03613379a886" />
+<img width="600" height="590" alt="image" src="https://github.com/user-attachments/assets/f715f4dd-e278-496a-bb6b-03613379a886" />
 
 - 만 19세 ~ 35세의 1인 가구 시민들은 수원을 첨단 산업이 발달한 도시로 가장 많이 생각하고 있다.
+
+<br />
   
 <img width="1186" height="590" alt="image" src="https://github.com/user-attachments/assets/04bc3249-43ad-4f03-8bea-0bd059577ba1" />
 
