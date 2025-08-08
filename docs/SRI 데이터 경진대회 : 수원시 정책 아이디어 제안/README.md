@@ -239,7 +239,7 @@
 
 <br />
   
-<img width="800" height="397" alt="image" src="https://github.com/user-attachments/assets/04bc3249-43ad-4f03-8bea-0bd059577ba1" />
+<img width="950" height="472" alt="image" src="https://github.com/user-attachments/assets/04bc3249-43ad-4f03-8bea-0bd059577ba1" />
 
 - 교통 => 1. 영통구(24.49%), 2. 장안구 (24.32%), 3. 팔달구(23.53%), 4. 권선구(16.22%)로 권선구를 제외한 세 개의 구에서는 약 24%의 시민이 교통을 우선적으로 추진해야 한다고 응답하였음.
   
