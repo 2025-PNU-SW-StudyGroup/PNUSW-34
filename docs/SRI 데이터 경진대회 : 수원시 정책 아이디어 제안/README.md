@@ -377,3 +377,10 @@
 <br />
 
 # 7. 참고문헌 및 출처
+
+SRI 데이터 경진대회 공식 데이터셋 (2025).
+ • 수원서베이 (2023, 2024)
+ • 수원시 시민패널조사 (2024, 2025)
+ • 도시정책지표
+ • 데이터분석 활용 사례
+- 출처: 수원시정연구원(Suwon Research Institute), SRI 데이터 경진대회 사이트(https://dacon.io/competitions/official/236539/overview/description)
