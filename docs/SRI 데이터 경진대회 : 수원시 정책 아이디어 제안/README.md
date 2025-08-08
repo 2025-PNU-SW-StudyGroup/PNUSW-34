@@ -221,6 +221,7 @@
 <br />
 
 ## 3.4 데이터분석 결과 시각화
+<img width="1790" height="489" alt="image" src="https://github.com/user-attachments/assets/f53bae15-edff-4ee9-9654-8688d5fb9cfc" />
 
 <br />
 
