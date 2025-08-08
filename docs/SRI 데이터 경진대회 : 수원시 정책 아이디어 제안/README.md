@@ -225,7 +225,7 @@
 
 - 1인가구 쪽이 조금 더 만족도가 높은것을 확인할 수 있음
 
-<img width="400" height="298" alt="image" src="https://github.com/user-attachments/assets/303497d2-b860-4d0e-a6f7-474514d6880d" />
+<img width="550" height="410" alt="image" src="https://github.com/user-attachments/assets/303497d2-b860-4d0e-a6f7-474514d6880d" />
 
 - 생활환경 부문에서 불만족하는 시민이 조금 더 많은 편 이며, 안전 서비스 부문에서 가장 높은 만족도를 보였다.
   
