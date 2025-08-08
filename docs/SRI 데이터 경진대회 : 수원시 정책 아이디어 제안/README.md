@@ -221,7 +221,7 @@
 <br />
 
 ## 3.4 데이터분석 결과 시각화
-<img width="1790" height="489" alt="image" src="https://github.com/user-attachments/assets/f53bae15-edff-4ee9-9654-8688d5fb9cfc" />
+<img width="1300" height="355" alt="image" src="https://github.com/user-attachments/assets/f53bae15-edff-4ee9-9654-8688d5fb9cfc" />
 
 - 1인가구 쪽이 조금 더 만족도가 높은것을 확인할 수 있음
 
