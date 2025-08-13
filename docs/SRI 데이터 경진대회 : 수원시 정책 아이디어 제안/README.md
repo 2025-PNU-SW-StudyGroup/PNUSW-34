@@ -288,7 +288,7 @@
 
 <img width="743" height="573" alt="image" src="https://github.com/user-attachments/assets/80ef0c31-3fa0-430c-92a6-8a896214f07f" />
 
-<img width="802" height="638" alt="image" src="https://github.com/user-attachments/assets/86f634fe-44e2-4339-917b-6a05875864e3" />
+<img width="743" height="591" alt="image" src="https://github.com/user-attachments/assets/bd71b518-89fd-4ef4-aa92-53bab0d164f8" />
 
 - 수원시 유입 청년의 정책 관심도와 현재 정책에 대한 만족도의 비율의 형태가 매우 유사함. 대부분의 유입 청년들이 정책에 관심 및 만족도가 높음
 
