@@ -241,6 +241,7 @@
 
 ### ⑦ 청년층의 정책 수요 분석
 > 청년들이 필요하다고 응답한 정책 분포를 보면, 20대와 30대 모두 '③ 환상형 첨단과학 혁신클러스터 조성'(20대 17.9%, 30대 20.4%)과 '⑥ 광역철도망 구축'(20대 19.0%, 30대 16.7%)에 높은 선호를 보였다. 이외에도 20대는 '④ 수원 군공항 이전'(10.7%), '⑦ 인접도시와 광역 연합·통합 추진'(9.5%)에 응답률이 높았으며, 30대는 '⑤ 역세권 고밀도 복합개발'(11.9%), '⑩ 노후도시 재개발·재건축'(11.5%)에 높은 비율로 응답하였다.
+
 <br />
 
 ## 3.4 데이터분석 결과 시각화
@@ -279,23 +280,33 @@
 
 <br />
 
-<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20150039.png" />
+<img width="681" height="407" alt="image" src="https://github.com/user-attachments/assets/9561611e-7b59-4780-8ada-354cd7eb8d6e" />
 
 - 수원시 청년층의 62%가 10년 이상 거주, 38%는 10년 미만 거주함. 10년 미만 거주자는 이주 청년으로 볼 수 있음.
+  
+<br />
 
-<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20144528.png" />
-<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20145724.png" />
+<img width="743" height="573" alt="image" src="https://github.com/user-attachments/assets/80ef0c31-3fa0-430c-92a6-8a896214f07f" />
+
+<img width="802" height="638" alt="image" src="https://github.com/user-attachments/assets/86f634fe-44e2-4339-917b-6a05875864e3" />
 
 - 수원시 유입 청년의 정책 관심도와 현재 정책에 대한 만족도의 비율의 형태가 매우 유사함. 대부분의 유입 청년들이 정책에 관심 및 만족도가 높음
 
-<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20144615.png" />
-<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20144639.png" />
+<br />
+
+<img width="943" height="542" alt="image" src="https://github.com/user-attachments/assets/89fd864a-7df6-4d67-a41d-ac5e789f3f26" />
+
+<img width="936" height="555" alt="image" src="https://github.com/user-attachments/assets/2fb8bfb8-6516-4d57-9cbb-5f88c834edcd" />
 
 - 정책과 관련하여 이주 청년층의 만족 이유는 정책 추친력 및 속도가 빠르다는 점, 불만족 이유는 시민과의 소통 및 경청이 부족해서가 가장 높은 비율로 선택됨 => 정책 결정 과정에서 청년층의 의견 반영이나참여 기회가 충분하지 않다고 느끼고 있음을 보여줌
 
-<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20144739.png" />
+<br />
+
+<img width="778" height="462" alt="image" src="https://github.com/user-attachments/assets/90ee0f50-ab3b-4847-8643-e3a4216cd63f" />
 
 - 청년들이 필요하다고 응답한 정책 분포를 보면,  '③ 혁신클러스터 조성과 '⑥ 광역철도망 구축'에 높은 선호를 보임 => 필요 정책으로 선택한 내용들을 보면 접근성 개선을 통한 청년 일자리 접근성과 주거 선택의 폭을 넓히는 것임, 이 외에도 전반적으로 주거 환경 개선과 관련된 정책을 선호함
+
+<br />
 
 ## 3.5 데이터분석결과에 대한 고찰
 
