@@ -281,6 +281,21 @@
 
 <img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20150039.png" />
 
+- 수원시 청년층의 62%가 10년 이상 거주, 38%는 10년 미만 거주함. 10년 미만 거주자는 이주 청년으로 볼 수 있음.
+
+<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20144528.png" />
+<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20145724.png" />
+
+- 수원시 유입 청년의 정책 관심도와 현재 정책에 대한 만족도의 비율의 형태가 매우 유사함. 대부분의 유입 청년들이 정책에 관심 및 만족도가 높음
+
+<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20144615.png" />
+<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20144639.png" />
+
+- 정책과 관련하여 이주 청년층의 만족 이유는 정책 추친력 및 속도가 빠르다는 점, 불만족 이유는 시민과의 소통 및 경청이 부족해서가 가장 높은 비율로 선택됨 => 정책 결정 과정에서 청년층의 의견 반영이나참여 기회가 충분하지 않다고 느끼고 있음을 보여줌
+
+<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20144739.png" />
+
+- 청년들이 필요하다고 응답한 정책 분포를 보면,  '③ 혁신클러스터 조성과 '⑥ 광역철도망 구축'에 높은 선호를 보임 => 필요 정책으로 선택한 내용들을 보면 접근성 개선을 통한 청년 일자리 접근성과 주거 선택의 폭을 넓히는 것임, 이 외에도 전반적으로 주거 환경 개선과 관련된 정책을 선호함
 
 ## 3.5 데이터분석결과에 대한 고찰
 
