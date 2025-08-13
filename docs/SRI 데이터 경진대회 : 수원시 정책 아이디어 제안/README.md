@@ -279,6 +279,9 @@
 
 <br />
 
+<img width="800" height="396" alt="image" src="https://github.com/yejill/swphoto/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-08-13%20150039.png" />
+
+
 ## 3.5 데이터분석결과에 대한 고찰
 
 ### ① 청년 주거지원 정책의 인지도·만족도 비교
