@@ -286,6 +286,12 @@
   
 <br />
 
+<img width="900" height="672" alt="1" src="https://github.com/user-attachments/assets/5afc9063-bd85-48d0-a5a3-af3ba0f87613" />
+
+- 2023년 및 2024년 수원서베이 데이터를 분석한 결과, 수원시 청년층의 시정 정책에 대한 전반적인 관심도가 낮은 것으로 나타났다. 2024년에는 "수원시 정책 관심도" 질문에 약 45%의 응답자가 '보통이다.'로 제일 많은 응답을 차지하였고, 그다음으로는 '없는 편이다.' 가 28%를 차지하며 2위를 기록했다.
+
+<br />
+
 <img width="743" height="573" alt="image" src="https://github.com/user-attachments/assets/80ef0c31-3fa0-430c-92a6-8a896214f07f" />
 
 <img width="743" height="591" alt="image" src="https://github.com/user-attachments/assets/bd71b518-89fd-4ef4-aa92-53bab0d164f8" />
